@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.exe
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.deps.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.dll
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\bin\Debug\netcoreapp3.1\masin.pdb
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.dll
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.pdb
+C:\Users\Asus\OneDrive\İş masası\Homework class\masin\masin\masin\obj\Debug\netcoreapp3.1\masin.genruntimeconfig.cache
